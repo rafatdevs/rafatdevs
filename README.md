@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Rafat Hasan
+- 👀 I’m interested in computer vision, deep learning, and AI-driven visual systems.
+- 🌱 I’m currently learning advanced techniques in neural network optimization and multi-modal learning.
+- 💞️ I’m looking to collaborate on innovative computer vision projects and open-source AI tools.
+- 📫 How to reach me: [Your Email or LinkedIn/GitHub URL]
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm fascinated by how machines can learn to see and interpret the world, and I'm always exploring new ways to push the boundaries of AI!
